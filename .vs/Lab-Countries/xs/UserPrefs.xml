@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{260B9974-7153-4FF3-B364-B738D8316A89}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab-Countries FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab-Countries/CountryController.cs">
+    <Files>
+      <File FileName="Lab-Countries/Program.cs" Line="23" Column="1" />
+      <File FileName="Lab-Countries/Country.cs" Line="10" Column="49" />
+      <File FileName="Lab-Countries/CountryView.cs" Line="11" Column="1" />
+      <File FileName="Lab-Countries/CountryController.cs" Line="6" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab-Countries" expanded="True">
+            <Node name="Lab-Countries" expanded="True">
+              <Node name="CountryController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
